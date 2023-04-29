@@ -1,0 +1,23 @@
+{
+  "name": "express-favorite-actor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flap93/express-favorite-actor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flap93/express-favorite-actor/issues"
+  },
+  "homepage": "https://github.com/flap93/express-favorite-actor#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
